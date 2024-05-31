@@ -30,7 +30,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.75em;
+    padding: 1rem;
     margin-inline: auto;
     max-width: 72rem;
     flex-wrap: wrap;
